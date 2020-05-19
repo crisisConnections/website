@@ -21,9 +21,6 @@ import { MatIconModule } from '@angular/material/icon';
   ],
   imports: [
     BrowserModule,
-<<<<<<< HEAD
-    AppRoutingModule
-=======
     AppRoutingModule,
     BrowserAnimationsModule,
     HttpClientModule,
@@ -33,7 +30,6 @@ import { MatIconModule } from '@angular/material/icon';
     MatListModule,
     MatButtonModule,
     MatIconModule
->>>>>>> c8b8896ad733a89d70b9799977fbbe5b74f7209e
   ],
   providers: [],
   bootstrap: [AppComponent]
